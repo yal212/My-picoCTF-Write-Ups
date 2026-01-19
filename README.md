@@ -23,15 +23,14 @@ Example structure:
 
 ```text
 .
-├── Web/
-│   ├── Pathway-leak.md
-│   ├── Documents.md
+├── Web-Exploitation/
+│   ├── write-up1.md
+│   ├── write-up2.md
 │   └── ...
-├── Reverse/
-│   ├── The_Lock.md
+├── Reverse_Engineering/
+│   ├── write-up3.md
 │   └── ...
 ├── Crypto/
-├── Forensics/
 └── README.md
 ```
 
@@ -52,8 +51,6 @@ Depending on the challenge set, topics may include:
 - Web exploitation (Path Traversal, Header manipulation, `.htaccess` issues)
 - Reverse engineering (PE analysis, strings, control flow)
 - Cryptography (encoding, ciphers, logic flaws)
-- Forensics (file analysis, hidden data)
-- Client-side security (JavaScript logic abuse, DOM inspection)
 
 ---
 
@@ -87,25 +84,23 @@ Depending on the challenge set, topics may include:
 
 ```text
 .
-├── Web/
-│   ├── Pathway-leak.md
-│   ├── Documents.md
+├── Web-Exploitation/
+│   ├── write-up1.md
+│   ├── write-up2.md
 │   └── ...
-├── Reverse/
-│   ├── The_Lock.md
+├── Reverse_Engineering/
+│   ├── write-up3.md
 │   └── ...
 ├── Crypto/
-├── Forensics/
 └── README.md
 ```
 
 每篇解題通常包含：
 - 題目描述
-- 初步分析與觀察（Recon）
+- 初步分析與觀察
 - 核心漏洞或關鍵概念
 - 利用流程與實作步驟
 - Flag 取得邏輯
-- 解題心得與總結
 
 ---
 
@@ -116,8 +111,6 @@ Depending on the challenge set, topics may include:
 - Web 攻擊（路徑遍歷、HTTP Header 操作、`.htaccess` 設定問題）
 - 逆向工程（PE 檔分析、字串、流程控制）
 - 密碼學（編碼、加解密、邏輯漏洞）
-- 鑑識分析（檔案結構、隱藏資料）
-- 前端安全（JavaScript 邏輯繞過、DOM 操作）
 
 ---
 
@@ -142,7 +135,6 @@ Depending on the challenge set, topics may include:
 ## ⭐ Acknowledgements
 
 - picoCTF organizers and challenge authors
-- The CTF and security research community
 
 ---
 
