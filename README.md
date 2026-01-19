@@ -12,7 +12,7 @@ The purpose of this repository is to:
 
 ## 🌐 Language / 語言
 
-<details open>
+<details>
 <summary><strong>English</strong></summary>
 
 ## 📂 Repository Structure
