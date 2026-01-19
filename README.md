@@ -24,13 +24,12 @@ Example structure:
 ```text
 .
 ├── Web-Exploitation/
-│   ├── write-up1.md
-│   ├── write-up2.md
-│   └── ...
-├── Reverse_Engineering/
-│   ├── write-up3.md
-│   └── ...
-├── Crypto/
+├── Cryptography/
+├── Reverse-Engineering/
+├── Forensics/
+├── General-Skills/
+├── Binary-Exploitation/
+├── web
 └── README.md
 ```
 
@@ -41,16 +40,6 @@ Each write-up typically includes:
 - Exploitation steps
 - Flag extraction logic
 - Lessons learned
-
----
-
-## 🧠 Covered Topics
-
-Depending on the challenge set, topics may include:
-
-- Web exploitation (Path Traversal, Header manipulation, `.htaccess` issues)
-- Reverse engineering (PE analysis, strings, control flow)
-- Cryptography (encoding, ciphers, logic flaws)
 
 ---
 
@@ -85,13 +74,12 @@ Depending on the challenge set, topics may include:
 ```text
 .
 ├── Web-Exploitation/
-│   ├── write-up1.md
-│   ├── write-up2.md
-│   └── ...
-├── Reverse_Engineering/
-│   ├── write-up3.md
-│   └── ...
-├── Crypto/
+├── Cryptography/
+├── Reverse-Engineering/
+├── Forensics/
+├── General-Skills/
+├── Binary-Exploitation/
+├── web
 └── README.md
 ```
 
@@ -101,16 +89,6 @@ Depending on the challenge set, topics may include:
 - 核心漏洞或關鍵概念
 - 利用流程與實作步驟
 - Flag 取得邏輯
-
----
-
-## 🧠 涵蓋主題
-
-依題目內容可能包含以下方向：
-
-- Web 攻擊（路徑遍歷、HTTP Header 操作、`.htaccess` 設定問題）
-- 逆向工程（PE 檔分析、字串、流程控制）
-- 密碼學（編碼、加解密、邏輯漏洞）
 
 ---
 
