@@ -29,7 +29,7 @@ Example structure:
 ├── Forensics/
 ├── General-Skills/
 ├── Binary-Exploitation/
-├── web
+├── web/
 └── README.md
 ```
 
@@ -79,7 +79,7 @@ Each write-up typically includes:
 ├── Forensics/
 ├── General-Skills/
 ├── Binary-Exploitation/
-├── web
+├── web/
 └── README.md
 ```
 
